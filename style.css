@@ -22,3 +22,4 @@
 @media(max-width:900px){.video-grid{grid-template-columns:1fr}.contact-layout{grid-template-columns:1fr;gap:40px}.contact-form{max-width:none}.video-thumb{height:220px}}
 @media(max-width:600px){.video-grid{gap:16px}.video-info{padding:18px}.video-info h3{font-size:19px}.contact-form{padding:20px}.form-head{display:block}.form-head small{display:block;margin-top:7px}.video-modal{padding:12px}.video-close{top:8px;right:8px}.cta-inner .contact-actions{flex-direction:column}.cta-inner .contact-actions .btn{width:100%;justify-content:center}}
 .nav-links a[href="#videos"]{position:relative}.nav-links a[href="#videos"]:after{content:'';position:absolute;top:-12px;right:-9px;font:600 7px 'DM Mono',monospace;color:#8dff67;letter-spacing:.05em}
+.ticker {solid margin-top:20px;}
